@@ -708,6 +708,7 @@
 				GCC_PREFIX_HEADER = OtherSources/DocSets_Prefix.pch;
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				HEADER_SEARCH_PATHS = (
+					"/usr/include/libxml2/**",
 					"OtherSources/lib/include/**",
 					"${SDKROOT}/usr/include/libxml2/**",
 				);
@@ -732,6 +733,7 @@
 				GCC_PREFIX_HEADER = OtherSources/DocSets_Prefix.pch;
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				HEADER_SEARCH_PATHS = (
+					"/usr/include/libxml2/**",
 					"OtherSources/lib/include/**",
 					"${SDKROOT}/usr/include/libxml2/**",
 				);
@@ -771,6 +773,7 @@
 				GCC_PREFIX_HEADER = OtherSources/DocSets_Prefix.pch;
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				HEADER_SEARCH_PATHS = (
+					"/usr/include/libxml2/**",
 					"OtherSources/lib/include/**",
 					"${SDKROOT}/usr/include/libxml2/**",
 				);
